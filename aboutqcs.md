@@ -5,14 +5,14 @@ title: About QCS
 
 ### Background
 The NSERC CREATE grant “Training for novel approaches in quantitative climate science” is 
-an exciting opportunity for undergraduate, masters, and doctoral students to obtain funding to 
+an exciting opportunity for **undergraduate, masters, and doctoral students** to obtain funding to 
 participate in an enhanced undergrad/grad school experience. The goal of this training program is 
 to foster deep, long-term, cross-sector collaborations (i.e., academia, government and industry) in
 climate science that are rooted in quantitative tools and to provide a pipeline of trainees for these
 sectors to access.
 
 Students studying within the broad scope of quantitative climate science (QCS) at the University
-ofWaterloo, University of Toronto, McGill University, and Dalhousie University are invited to apply.
+of Waterloo, University of Toronto, McGill University, and Dalhousie University are invited to apply.
 Participants will pursue interdisciplinary research with internationally-recognized researchers from
 these universities, in rapidly growing areas spanning _data-centric/high-performance computing in
 QCS_, _artificial intelligence in QCS_, and _computational oceanography_. You can learn more about the 
