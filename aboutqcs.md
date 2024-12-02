@@ -3,8 +3,7 @@ layout: page
 title: About QCS
 ---
 
-###Background
-
+### Background
 The NSERC CREATE grant “Training for novel approaches in quantitative climate science” is 
 an exciting opportunity for undergraduate, masters, and doctoral students to obtain funding to 
 participate in an enhanced undergrad/grad school experience. The goal of this training program is 
@@ -18,8 +17,7 @@ Participants will pursue interdisciplinary research with internationally-recogni
 these universities, in rapidly growing areas spanning data-centric/high-performance computing in
 QCS, artificial intelligence in QCS, and computational oceanography. 
 
-###Program highlights
-
+### Program highlights
 Highlights of program participation are:
 * an **annual summer school** where you will meet and interact with other CREATE participants,
 * specialized **training modules** on topics not typically covered in grad school courses,
