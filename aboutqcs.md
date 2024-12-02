@@ -14,8 +14,8 @@ sectors to access.
 Students studying within the broad scope of quantitative climate science (QCS) at the University
 ofWaterloo, University of Toronto, McGill University, and Dalhousie University are invited to apply.
 Participants will pursue interdisciplinary research with internationally-recognized researchers from
-these universities, in rapidly growing areas spanning data-centric/high-performance computing in
-QCS, artificial intelligence in QCS, and computational oceanography. 
+these universities, in rapidly growing areas spanning _data-centric/high-performance computing in
+QCS_, _artificial intelligence in QCS_, and _computational oceanography_. 
 
 ### Program highlights
 Highlights of program participation are:
