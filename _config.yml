@@ -25,6 +25,7 @@ navbar-links:
   Meet the Team: "qcs_co_pis"
   Training Modules: "modules"
   Software: "software"
+  Contact: "contact_us"
 #  PDFs: 
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
