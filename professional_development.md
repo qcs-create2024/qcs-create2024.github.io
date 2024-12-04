@@ -11,7 +11,7 @@ their supervisor about including another CREATE supervisor(s) on their superviso
 and provide multiple role models for work-life balance, funding pathways, and professional
 goal setting.
 
-### Comminication skills workshops
+### Communication skills workshops {#communication-skills}
 Graduate-level trainees will be required to complete workshops on written
 and oral scientific communication. These workshops will be hosted by professional writing/
 communication experts, and will be scheduled during the [summer school](https://qcs-create2024.github.io/about_summer_school/).
