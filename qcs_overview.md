@@ -20,7 +20,7 @@ research team and their areas of expertise [here](https://qcs-create2024.github.
 
 ### Program highlights
 Highlights of program participation are:
-* an **annual summer school** where you will meet and interact with other CREATE participants,
+* an [**annual summer school**](https://qcs-create2024.github.io/about_summer_school/) where you will meet and interact with other CREATE participants,
 * specialized **training modules** on topics not typically covered in grad school courses,
 * **professional development workshops** to hone your writing and oral presentation skills,
 * opportunities for **academic exchanges** with partner universities, and **paid internships**,
