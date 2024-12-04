@@ -22,9 +22,9 @@ author: University of Waterloo, University of Toronto, McGill University, Dalhou
 navbar-links:
   About QCS: 
     - Overview: "qcs_overview"
-    - Summer School: "about_summer_school" # figure out how to get sub-item tht links to page
+    - Summer School: "about_summer_school"
   Meet the Team: "qcs_co_pis"
-  Training Modules: "modules"
+  Training Modules: "/modules/modules_main"
   Software: "software"
   Contact: "contact_us"
 #  PDFs: 
