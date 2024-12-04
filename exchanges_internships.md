@@ -1,5 +1,6 @@
 ---
 title: Exchanges and Internships
+subtitle: Broaden your QCS experience
 ---
 
 ### Academic exchanges/visits
