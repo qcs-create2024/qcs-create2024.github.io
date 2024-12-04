@@ -19,7 +19,7 @@ Here you can find an alphabetical list of research team members by university, a
 ### University of Waterloo
 * Dr. Christine Dow - [Data-centric computing in QCS](https://uwaterloo.ca/scholar/c3dow/home)
 * Dr. Chris Fletcher - [Artificial intelligence in QCS](https://uwaterloo.ca/scholar/c5fletch/)
-* Dr. Francis Poulin - [The quantifiable ocean](hhtps://francispoulin.github.io)
+* Dr. Francis Poulin - [The quantifiable ocean](https://francispoulin.github.io)
 * Dr. Andrea Scott - [Artificial intelligence in QCS](https://uwaterloo.ca/scholar/ka3scott)
 * Dr. Marek Stastna (lead PI) - [Data-centric computing in QCS](https://uwaterloo.ca/scholar/mmstastn)
 * Dr. Alain Gervais (CREATE program coordinator)
