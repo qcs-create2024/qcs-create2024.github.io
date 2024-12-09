@@ -1,5 +1,7 @@
 ---
+layout: page
 title: Professional Development
+subtitle: Develop your QCS-adjacent skill set
 ---
 
 ### Academic mentorship
