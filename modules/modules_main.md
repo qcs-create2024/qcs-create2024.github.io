@@ -17,7 +17,7 @@ improve training modules for future cohorts, drawing on their research and inter
 experiences to inform the improvements.
 
 ### [Higher order methods](https://github.com/mmstastn/Higher_Order_Methods) (Marek Stastna)
-CREATE Module on basic FFT based spectral methods and physics background for waves/shocks.
+CREATE module on basic FFT based spectral methods and physics background for waves/shocks.
 
-### [Data module](https://github.com/mmstastn/Data_Module) (Marek Stastna)
-QCS CREATE basic data analysis module.
+### [Data analysis module](https://github.com/mmstastn/Data_Module) (Marek Stastna)
+QCS CREATE basic data analysis module including Fourier, wavelet and PCA/EOF methods.
