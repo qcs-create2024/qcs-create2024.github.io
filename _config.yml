@@ -296,7 +296,7 @@ defaults:
       layout: "page"
 
 # include NSERC logo in the footer
-#footer-extra: nserc.html
+footer-extra: nserc.html
 
 # Exclude these files from production site
 exclude:
