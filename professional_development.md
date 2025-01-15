@@ -25,6 +25,8 @@ offered by one of the participating universities, or by a government or industry
 internship. Trainees should discuss with their supervisor about what microcredential topics might
 be of interest to them and/or of value to their future carreer plans.
 
+Microcredentials offered by the CREATE program can be found [here](https://qcs-create2024.github.io/microcredentials/microcredentials_main/).
+
 ### Conference travel funding
 All trainees will be welcome to apply for conference travel funding
 to present their CREATE-funded research. Conferences are a great opportunity to apply the
