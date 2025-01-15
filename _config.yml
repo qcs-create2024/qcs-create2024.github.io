@@ -27,7 +27,9 @@ navbar-links:
     - Professional Development: "professional_development"
     - Peer Activities: "peer_activities"
   Meet the Team: "qcs_co_pis"
-  Training Modules: "/modules/modules_main"
+  Training: 
+    - Training Modules: "/modules/modules_main"
+    - Microcredentials: "/microcredentials/microcredentials_main"
   Software: "software"
   Contact: "contact_us"
 #  PDFs: 
