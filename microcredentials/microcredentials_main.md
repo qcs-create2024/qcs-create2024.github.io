@@ -15,5 +15,5 @@ and email it to the Program Coordinator for our records.
 
 Keep checking back as more microcredentials come online!
 
-###[Introduction to MatLab](https://uwaterloo.ca/math-faculty-computing-facility/services/mathematical-software-web-page/mathematical-applications/matlab-tutorials)
+### [Introduction to MatLab](https://uwaterloo.ca/math-faculty-computing-facility/services/mathematical-software-web-page/mathematical-applications/matlab-tutorials)
 Introduction to MatLab offered by the University of Waterloo, with plenty of example scripts to get you started.
