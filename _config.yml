@@ -29,7 +29,7 @@ navbar-links:
   Meet the Team: "qcs_co_pis"
   Training: 
     - Training Modules: "/modules/modules_main"
-    - Microcredentials: "/microcredentials/microcredentials_main"
+    - Micro-credentials: "/microcredentials/microcredentials_main"
   Software: "software"
   Contact: "contact_us"
 #  PDFs: 
