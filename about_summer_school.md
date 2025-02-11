@@ -1,6 +1,6 @@
 ---
 title: QCS Annual Summer School
-subtitle: Hands-on learning, iteraction, and networking
+subtitle: Hands-on learning, interaction, and networking
 ---
 
 ### About the annual summer school
