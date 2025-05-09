@@ -15,4 +15,7 @@ must attend **two** summer schools, and MSc-level trainees must attend **one** s
 The inaugural 2025 CREATE QCS Summer School is scheduled for July 21-25. We look forward to hosting you 
 at the University of Waterloo!
 
-Stay tuned for more details!
+We have planned an exciting week of workshops, networking, and presentations from some of our co-PIs as
+well as from invited speakers external to the CREATE. See the tentative schedule below.
+
+![The tentative schedule is now live, check ot out here!](/assets/img/summer_school_schedule2025.png)
