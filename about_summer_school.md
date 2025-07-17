@@ -18,4 +18,7 @@ at the University of Waterloo!
 We have planned an exciting week of workshops, networking, and presentations from some of our co-PIs as
 well as from invited speakers external to the CREATE. See the tentative schedule below.
 
+Student will find materials here:
+https://github.com/qcs-create2024
+
 ![The tentative schedule is now live, check ot out here!](/assets/img/summer_school_schedule2025.png)
