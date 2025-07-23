@@ -36,4 +36,4 @@ network.
 
 Conference travel funding for conferences scheduled through August 2026 is available in the form of a QCS Conference Travel Award! 
 The conference travel funding procedure and application document can be found here: 
-[participation agreement/requirements form (.pdf)](https://qcs-create2024.github.io/assets/CREATE-QCS-conference-travel-award.pdf).
+[conference travel award information and application form (.pdf)](https://qcs-create2024.github.io/assets/CREATE-QCS-conference-travel-award.pdf).
