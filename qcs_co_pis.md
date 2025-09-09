@@ -7,21 +7,21 @@ Here you can find an alphabetical list of research team members by university, a
 To apply to participate in the CREATE program, first ensure one of the supervisors below has agreed to take you on (full participation my be subject to funding availability). A summary of the program components may be found [here (.pdf)](https://qcs-create2024.github.io/assets/CREATE-QCS-info-packet.pdf). Once your supervisor has agreed to take you on, download and complete the [participation agreement/requirements form (.pdf)](https://qcs-create2024.github.io/assets/CREATE-QCS-requirements.pdf) and have your supervisor return it to the Program Coordinator.
 
 ### Dalhousie University
-* Dr. Katja Fennel - [The quantifiable ocean](https://memg.ocean.dal.ca/fennel/)
-* Dr. Ruth Musgrave - [The quantifiable ocean](https://mixing.phys.ocean.dal.ca/)
+* Prof. Katja Fennel - [The quantifiable ocean](https://memg.ocean.dal.ca/fennel/)
+* Prof. Ruth Musgrave - [The quantifiable ocean](https://mixing.phys.ocean.dal.ca/)
 
 ### McGill University
-* Dr. Daniel Kirshbaum - [Data-centric computing in QCS](https://web.meteo.mcgill.ca/~dkirshbaum/)
-* Dr. David Straub - [The quantifiable ocean](https://web.meteo.mcgill.ca/~david/HOME.html)
+* Prof. Daniel Kirshbaum - [Data-centric computing in QCS](https://web.meteo.mcgill.ca/~dkirshbaum/)
+* Prof. David Straub - [The quantifiable ocean](https://web.meteo.mcgill.ca/~david/HOME.html)
 
 ### University of Toronto
-* Dr. Nicolas Grisouard - [Artificial intelligence in QCS](https://sites.physics.utoronto.ca/nicolasgrisouard)
-* Dr. Paul Kushner - [Artificial intelligence in QCS](http://www.pjk.atmosp.physics.utoronto.ca/)
+* Prof. Nicolas Grisouard - [Artificial intelligence in QCS](https://sites.physics.utoronto.ca/nicolasgrisouard)
+* Prof. Paul Kushner - [Artificial intelligence in QCS](http://www.pjk.atmosp.physics.utoronto.ca/)
 
 ### University of Waterloo
-* Dr. Christine Dow - [Data-centric computing in QCS](https://uwaterloo.ca/scholar/c3dow/home)
-* Dr. Chris Fletcher - [Artificial intelligence in QCS](https://uwaterloo.ca/scholar/c5fletch/)
-* Dr. Francis Poulin - [The quantifiable ocean](https://francispoulin.github.io)
-* Dr. Andrea Scott - [Artificial intelligence in QCS](https://uwaterloo.ca/scholar/ka3scott)
-* Dr. Marek Stastna (lead PI) - [Data-centric computing in QCS](https://uwaterloo.ca/scholar/mmstastn)
+* Prof. Christine Dow - [Data-centric computing in QCS](https://uwaterloo.ca/scholar/c3dow/home)
+* Prof. Chris Fletcher - [Artificial intelligence in QCS](https://uwaterloo.ca/scholar/c5fletch/)
+* Prof. Francis Poulin - [The quantifiable ocean](https://francispoulin.github.io)
+* Prof. Andrea Scott - [Artificial intelligence in QCS](https://uwaterloo.ca/scholar/ka3scott)
+* Prof. Marek Stastna (lead PI) - [Data-centric computing in QCS](https://uwaterloo.ca/scholar/mmstastn)
 * Dr. Alain Gervais (CREATE program coordinator)
