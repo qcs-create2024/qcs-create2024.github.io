@@ -22,6 +22,7 @@ a poster session on July 25th. Check out the [poster archive](/assets/posters202
 and the [complete collection of abstracts (.pdf)](/assets/posters2025/abstracts2025.pdf) from 
 the 2025 Summer School.
 
+### Summer School materials and schedule
 Students can find materials here:
 [https://github.com/qcs-create2024](https://github.com/qcs-create2024/summer_school2025)
 
