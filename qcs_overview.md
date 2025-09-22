@@ -32,7 +32,7 @@ Highlights of program participation are:
 ### Forms repository
 All PDF forms related to the QCS program are centrally located at the links below, as well as on the information pages on this website.
 * [Summary of QCS program components](https://qcs-create2024.github.io/assets/CREATE-QCS-info-packet.pdf)
-* [Participation agreement/requirements form](https://qcs-create2024.github.io/assets/CREATE-QCS-requirements.pdf)
+* Participation agreement/requirements form (currently undergoing mild revision for year 2 - check back soon!)
 * [Microcredential completion confirmation form](https://qcs-create2024.github.io/microcredentials/microcredential-confirmation-form.pdf)
 * Module completion confirmation form (under development - check back soon!)
 * [QCS Conference Travel Award information and application form](https://qcs-create2024.github.io/assets/CREATE-QCS-conference-travel-award.pdf)
