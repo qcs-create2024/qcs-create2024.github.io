@@ -24,6 +24,10 @@ the 2025 Summer School.
 
 ### Summer School materials and schedule
 Students can find materials here:
-[https://github.com/qcs-create2024](https://github.com/qcs-create2024/summer_school2025)
+[https://github.com/qcs-create2024/summer_school2025](https://github.com/qcs-create2024/summer_school2025).
+
+Slides for the computer workshop, "Coding with Python "Like the Pros"", are archived on facilitator 
+Dr. Derek Steinmoeller's website [here](https://dsteinmoeller.math.uwaterloo.ca/slides/create-talk.html#1).
+A test Python 3 repo (referred to in the slides) can be found [here](https://git.uwaterloo.ca/dsteinmo/myfirstproject).
 
 ![The tentative schedule is now live, check ot out here!](/assets/img/summer_school_schedule2025.png)
