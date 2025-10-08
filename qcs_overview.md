@@ -5,7 +5,7 @@ subtitle: QCS at-a-glance
 ---
 
 ### Background
-The NSERC CREATE grant “Training for novel directions in quantitative climate science” is 
+The NSERC CREATE grant _“Training for novel directions in quantitative climate science”_ is 
 an exciting opportunity for **undergraduate, masters, and doctoral students** to obtain funding to 
 participate in an enhanced undergrad/grad school experience. The goal of this training program is 
 to foster deep, long-term, cross-sector collaborations (i.e., academia, government and industry) in
