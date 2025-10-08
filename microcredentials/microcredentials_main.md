@@ -17,3 +17,6 @@ Keep checking back as more microcredentials come online!
 
 ### [Introduction to MatLab](https://uwaterloo.ca/math-faculty-computing-facility/services/mathematical-software-web-page/mathematical-applications/matlab-tutorials)
 Introduction to MatLab offered by the University of Waterloo, with plenty of example scripts to get you started.
+
+### [Coding with Python "Like the Pros"](https://dsteinmoeller.math.uwaterloo.ca/slides/create-talk.html#1)
+Introduction to professional code development and maintenence practices using Python and git.
