@@ -24,7 +24,7 @@ Highlights of program participation are:
 * an [**annual summer school**](https://qcs-create2024.github.io/about_summer_school/) where you will meet and interact with other CREATE participants,
 * specialized [**training modules**](https://qcs-create2024.github.io/modules/modules_main/) on topics not typically covered in grad school courses,
 * [**professional development workshops**](https://qcs-create2024.github.io/professional_development/) to hone your writing and oral presentation skills, and other "soft skills,"
-* opportunities for [**academic exchanges**](https://qcs-create2024.github.io/exchanges_internships/) with partner universities, and [**paid internships**](https://qcs-create2024.github.io/exchanges_internships/),
+* funding for [**academic exchanges/visits**](https://qcs-create2024.github.io/exchanges_internships/) with partner universities, and [**paid internships**](https://qcs-create2024.github.io/exchanges_internships/),
 * opportunities to obtain **conference travel** funding to present your research,
 * **networking** with other CREATE trainees and experts from the participating universities, as well as from government and industry,
 * and more!
