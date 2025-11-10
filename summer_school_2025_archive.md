@@ -1,6 +1,6 @@
 ---
 title: QCS Summer School 2025
-subtitle: Archived Materials 2025
+subtitle: Archived materials 2025
 ---
 
 ### Success! QCS Summer School 2025
