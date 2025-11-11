@@ -16,7 +16,7 @@ PhD-level trainees are required to help co-develop, modify, and
 improve training modules for future cohorts, drawing on their research and internship/exchange
 experiences to inform the improvements.
 
-Once you have completed this requirement, download and complete the [confirmation form (.pdf)](https://qcs-create2024.github.io/modules/module-completion-form.pdf) 
+Once you have completed this requirement, download and complete the [confirmation form (.pdf)](https://qcs-create2024.github.io/modules/CREATE-QCS-module-completion-form.pdf) 
 and email it to the Program Coordinator for our records.
 
 ### [Higher order methods](https://github.com/mmstastn/Higher_Order_Methods) (Marek Stastna)
