@@ -20,10 +20,11 @@ Once you have completed this requirement, download and complete the [confirmatio
 and email it to the Program Coordinator for our records.
 
 ### [Higher order methods](https://github.com/mmstastn/Higher_Order_Methods) (Marek Stastna)
-CREATE module on basic FFT based spectral methods and physics background for waves/shocks.
-
-### [Perturbation Theory in Fluid Mechanics](https://github.com/mmstastn/Perturbation-Theory-Module) (Marek Stastna)
-CREATE nodule on perturbation theory in the context of fluid mechanics.
+QCS CREATE module on basic FFT based spectral methods and physics background for waves/shocks.
 
 ### [Data analysis module](https://github.com/mmstastn/Data_Module) (Marek Stastna)
 QCS CREATE basic data analysis module including Fourier, wavelet and PCA/EOF methods.
+
+### [Perturbation Theory in Fluid Mechanics](https://github.com/mmstastn/Perturbation-Theory-Module) (Marek Stastna)
+QCS CREATE module on perturbation theory in the context of fluid mechanics.
+
