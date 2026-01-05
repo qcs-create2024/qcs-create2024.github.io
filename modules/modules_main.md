@@ -28,3 +28,6 @@ QCS CREATE basic data analysis module including Fourier, wavelet and PCA/EOF met
 ### [Perturbation Theory in Fluid Mechanics](https://github.com/mmstastn/Perturbation-Theory-Module) (Marek Stastna)
 QCS CREATE module on perturbation theory in the context of fluid mechanics.
 
+### [How to Discretize Partial Differential Equations: Theory and Applications](https://github.com/francispoulin/CREATE_Numerical_PDEs/tree/main) (Francis Poulin)
+QCS CREATE module on low order methods, with 5 chapters on Finite Differences, Spatial Discretization, 
+Series Expansions, Time Discretization, and Space-Time Discretizations.
