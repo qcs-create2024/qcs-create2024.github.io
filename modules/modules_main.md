@@ -31,3 +31,7 @@ QCS CREATE module on perturbation theory in the context of fluid mechanics.
 ### [How to Discretize Partial Differential Equations: Theory and Applications](https://github.com/francispoulin/CREATE_Numerical_PDEs/tree/main) (Francis Poulin)
 QCS CREATE module on low order methods, with 5 chapters on Finite Differences, Spatial Discretization, 
 Series Expansions, Time Discretization, and Space-Time Discretizations.
+
+### [The Mathematics of Fluid Dynamics](https://github.com/mmstastn/Mathematics-of-Fluid-Dynamics-Module) (Marek Stastna)
+This module covers the mathematical basics of how the equations of fluid mechanics are derived, and some aspects of classical fluid mechanics. 
+It allows for multiple paths, including one for students without a large number of mathematical pre-requisites.
