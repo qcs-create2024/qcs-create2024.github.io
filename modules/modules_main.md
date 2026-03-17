@@ -35,3 +35,10 @@ Series Expansions, Time Discretization, and Space-Time Discretizations.
 ### [The Mathematics of Fluid Dynamics](https://github.com/mmstastn/Mathematics-of-Fluid-Dynamics-Module) (Marek Stastna)
 This module covers the mathematical basics of how the equations of fluid mechanics are derived, and some aspects of classical fluid mechanics. 
 It allows for multiple paths, including one for students without a large number of mathematical pre-requisites.
+
+### [Modelling instability of a submesoscale front using Oceananigans](https://github.com/erin-atkinson/FrontalInstabilities) (Erin Atkinson, PhD student under Nico Grisouard)
+This module demonstrates how to use Oceananigans, a collection of powerful, parallelisable fluid dynamics 
+models written in Julia with a focus on oceanic contexts. Symmetric instability in a frontal zone is used as an example problem.
+
+The module introduces the equations of motion and computational methods used. Readers unfamiliar with elementary 
+fluid dynamics are encouraged to first read Marek Stastna's module _The Mathematics of Fluid Dynamics._
