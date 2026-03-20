@@ -1,1 +1,20 @@
+---
+layout: post
+title: Ocean Sciences Meeting 2026 
+subtitle: NSERC CREATE QCS Travel Award Report
+tags: [QCS Conference Tavel Award]
+comments: true
+author: Jacob MacDonald
+---
+
+As someone with the last name MacDonald, I am very appreciative to have had the support of the QCS travel award to reunite me with a piece of my long-lost Scottish heritage. Something just felt right as bagpipes filled the air while I headed for the Ocean Sciences Meeting (OSM) 2026 in Glasgow. OSM is the flagship conference for the ocean sciences community, designed to be a movement shaping the future of ocean sciences, and it certainly did not disappoint.
+
+My experience at OSM is also helping to shape the future of my oceanographic career. As I near the end of my Master’s at Dalhousie University, I was able to share my research to discuss how it fits into the larger-scale ocean community, and learn about potential opportunities moving forward. One of the meaningful outcomes that the travel award made possible was being able to connect with other oceanography students, professors, and research professionals from around the world. Many of whom have navigated the same stage of academic life that I am in, allowing me to learn tips and build opportunities for success outside of my Master’s Degree.
+
+I was able to share parts of my Master’s research with a broad audience through my poster presentation, titled an Empirical Orthogonal Function (EOF) Based Approach for Improved Forecasting of Halifax Harbour Using a High-Resolution Regional Model. My poster was a part of the session on Observational Strategies for Improving Ocean Predictions; however, I also spent a lot of time following the marine carbon dioxide removal (mCDR) sessions. That is ultimately why I am focused on improving model predictions with observations—to provide more accurate estimates of ongoing mCDR activities in Halifax Harbour, Atlantic Canada. Having experts amongst all the many intersecting disciplines of oceanography was a major highlight and stimulated a rich learning environment. In general, I learned a lot about other harbour systems experimenting with mCDR approaches and how they’ve used models to understand the harbour dynamics and maintain the accuracy of their simulations. This led nicely into the more specialized talks later in the week about the state-of-the-art methods for using observations to update model estimates (data assimilation). I learned about many more complex techniques that could potentially be built into my more simplistic approach to data assimilation. One of the main discussion points surrounding my poster presentation was exactly that: the trade-offs between simplicity and more computationally intense approaches. There were even a handful of people drawn to my poster because they wanted to learn more about this simpler, EOF-based approach to data assimilation and whether it could apply to their own research. It was rewarding to have that felt my expertise was actually helping someone else’s research problem. The final highlight from my session was getting to meet the author of one of the main papers that my Master’s thesis is based on. Being able to discuss my application of his work was very productive and even led to ideas on how we could leverage the EOF-based approach to create a generalized method to optimize regional observing strategies.
+
+There was a lot of talk of how fast oceanography has been developing as a field in the last ten years. The community as a whole has stepped up in a time of uncertainty, mobilizing many oceanographic operations to generate knowledge and understanding, as maintaining healthy oceans is a critical part of our future. This is something I am proud to be a part of. Even though this travel award did not lead me to any Scottish MacDonald clan gatherings, it led me to something much better: a gathering of many brilliant minds working together for the greater good of our ocean.
+
+
+![Jacob MacDonald at OSM 2026 in Glasgow](https://qcs-create2024.github.io/assets/img/jacob_m_osm2026.jpg){: .mx-auto.d-block :}
 
