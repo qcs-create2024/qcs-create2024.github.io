@@ -42,3 +42,7 @@ models written in Julia with a focus on oceanic contexts. Symmetric instability 
 
 The module introduces the equations of motion and computational methods used. Readers unfamiliar with elementary 
 fluid dynamics are encouraged to first read Marek Stastna's module _The Mathematics of Fluid Dynamics._
+
+### [Internal Gravity Waves and Mountain Waves](https://github.com/dkirshbaum/CREATE_igmtn) (Daniel Kirshbaum)
+QCS CREATE module on internal gravity waves and mountain waves pitched at a mathematical level not exceeding 
+advanced calculus and ordinary differential equations.
