@@ -32,7 +32,7 @@ Highlights of program participation are:
 ### Standard funding packages
 CREATE funding is intended to supplement other funding sources (for example, a teaching assistantship or research assistantship). The CREATE initiative provides the following standard funding packages by trainee level:
 * PhD-level trainee: $15000/year for 4 years
-* Master's-level trainee: $15000/year for 2 years
+* Masters-level trainee: $15000/year for 2 years
 * Undergraduate-level trainee: $4000 for one semester
 
 Students can also choose to join the CREATE without a funding package! Whatever your situation, contact a [potential supervisor](https://qcs-create2024.github.io/qcs_co_pis/) to ask about openings.
