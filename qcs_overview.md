@@ -29,6 +29,14 @@ Highlights of program participation are:
 * **networking** with other CREATE trainees and experts from the participating universities, as well as from government and industry,
 * and more!
 
+### Standard funding packages
+CREATE funding is intended to supplement other funding sources (for example, a teaching assistantship or research assistantship). The CREATE initiative provides the following standard funding packages by trainee level:
+* PhD-level HQP: $15000/year for 4 years
+* Master's-level HQP: $15000/year for 2 years
+* Undergraduate-level HQP: $4000 for one semester
+
+Students can also choose to join the CREATE without a funding package! Whatever your situation, contact a [potential supervisor](https://qcs-create2024.github.io/qcs_co_pis/) to ask about openings.
+
 ### Forms repository
 All PDF documents and forms related to the QCS program are centrally located at the links below, as well as on the information pages on this website.
 
