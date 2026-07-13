@@ -14,6 +14,8 @@ must attend **two** summer schools, and MSc-level trainees must attend **one** s
 ### SAVE THE DATE!
 Mark your calendar for the 2026 Summer School, scheduled from July 20-24, 2026, at the University of Waterloo!
 
+The group project info and related materials can be accessed [here](https://github.com/qcs-create2024/qcs-create2024.github.io/tree/master/assets/project2026).
+
 The summer school schedule is now live, check it out here:
 ![The schedule is now live, check it out here!](/assets/img/summer_school_schedule2026.png)
 
