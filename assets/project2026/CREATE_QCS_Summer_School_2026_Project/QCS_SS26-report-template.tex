@@ -1,0 +1,73 @@
+\documentclass[11pt,letterpaper]{article}
+\input{qcs_ss26_reports_common.tex}
+
+\begin{document}
+
+\begin{center}
+    {\large \textbf{Title of your project (1 or 2 lines) goes here}} \\ \vspace{\baselineskip}%
+    \textit{First Author}, \textit{Second Author}, \textit{Third Author}, \textit{Fourth Author}, \textit{Fifth Author}%
+\end{center}
+
+
+%%%-------------------------------------------------------------------------%%%
+\section{Background}
+This section should fill out the rest of this first page. Make sure to include references using either numerical or author-year citations (default) like \citet{weart2003} throughout the report, as appropriate. Be mindful of the \verb|\citet| and \verb|\citep| commands and ensure you're using the right one for your grammatical context. %%% LaTeX tip: your references (citations, equation/figure/table references) should ALWAYS be hyperlinks, and preferrably colour-coded for easy identification. This is done for you here, but you should adopt this as standard practice for your own LaTeX-ing.
+
+This template has been tested with Overleaf. This platform is the preferred solution for writing your group's report, because the University of Waterloo's license allows for collaborators (i.e., the other members of your group) to contribute to the report simultaneously, provided the source files belong to a University of Waterloo student in your group.
+
+
+%%%-------------------------------------------------------------------------%%%
+%\newpage
+\section{Group skills relevant to project}
+Your ``background'' section should have enough content that the above ``group skills'' section header should be pushed down to the very top of page 2. If you need to force it from page 1 to page 2, uncomment the \verb|\newpage| command in the source file. Include 1 paragraph per group member outlining their skills and the role they will have in your mock research project. %%% LaTeX tip: notice how to typset the double quotes I use `` and '' (two ` found on the tilde ~ key, and two ' found on the " key). Do not use "" because these do not typeset quotes correctly. This tip may not be relevant to this write-up but it is good to know and it should be your standard practice for quotes in LaTeX.
+
+
+%%%-------------------------------------------------------------------------%%%
+%\newpage
+\section{Actionables and timeline}
+As above, your ``group skills'' section should have enough content to push the ``actionables'' section header to the top of page 3. Describe the goals/objectives/outcomes of your proposed research project. Use the table template shown in Table~\ref{tb:timeline} to populate the timeline of your proposed research project. %%% LaTeX tip: notice the ~ symbol between "Table" and "\ref": this symbol glues these two pices together to guarantee that the word "Table" and the number "1" don't awkwardly end up on different lines (if the reference is close to the end of a line). ALWAYS apply this practice when using references in LaTeX (e.g., for Eq.~\eqref{}, Fig.~\ref{}), even with names/titles, like Prof.~X. In this latter case the ~ glues the title and name together AND sets standard spacing after the period in "Prof." (otherwise LaTeX makes the space between "Prof." and "X" a little bigger than a standard space by treating the period as if it were the end of a sentence, which it is not in this case).
+
+Some grants specify deliverables that your proposed research must achieve. If your proposed research would apply for such a grant, make sure this report explains how each deliverable will be satisfied.
+
+
+\begin{table}[b!]
+\centering
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} lll @{}}
+   \hline
+   Dates             & Activity                            & Person responsible \\
+   \hline\hline
+   Sept.--Dec., 2026 & Derive and analyze equations        & F.~Baggins \\
+   Jan.--Apr., 2027  & Write and debug numerical code      & S.~Gamgee \\
+   May--Jun., 2027   & Run simulations and analyze results & F.~Baggins, S.~Gamgee \\
+   Jul.--Aug., 2027  & Write and submit paper              & F.~Baggins, S.~Gamgee, B.~Baggins \\
+   \hline
+\end{tabular*}
+\caption{Timeline of proposed research activities to project completion.} %%% Obviously, use the actual group members' names (or initials if you are tight on sapce)
+\label{tb:timeline}
+\end{table}
+
+
+
+%%%-------------------------------------------------------------------------%%%
+%\newpage
+\section{Budget}
+The ``budget'' and ``impact'' sections should each be about half of the final page of your report. The budget will depend on the type of funding your mock research proposal would apply for. Your group's co-PI advisor should be able to point your group to a funding source relevant to your project. The exercise here is to propose a budget that adheres to a given source's requirements (this could include amounts for equipment, compute time, travel in the field, stipends, etc.).
+
+
+%%%-------------------------------------------------------------------------%%%
+\section{Impact}
+Describe why your group's proposed research project will benefit the field and the broader scientific community. This is your last opportunity to communicate the importance of your proposed research.
+
+
+
+
+
+
+%%%-------------------------------------------------------------------------%%%
+\newpage
+\bibliography{qcs_ss26_refs.bib} %NOTE, the "References" section header should appear automatically. The .bib file contains a few example references to get you started, You will need to populate it with additional sources as appropriate.
+
+\end{document}
+
+
+%%% DON'T FORGET: By the end of the week when your group presents your project, make sure to send an abstract based on your project to the Program Coordinator (alain.gervais@uwaterloo.ca). Although this is not normally part of a research proposal, we will compile all abstracts for record-keeping purposes. (Presentations like these is one metric that NSERC uses to evaluate the overall CREATE grant.)
