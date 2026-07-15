@@ -14,5 +14,6 @@ Here you can find a list of software projects as developed by the research team 
 
 * [NHSWM2DCurved](https://github.com/dsteinmo/NHSWM2DCurved) - MATLAB/GNU Octave Project by Derek Steinmoeller for simulating weakly non-hydrostatic shallow water flow in closed water basins.
     - See the [README](https://github.com/dsteinmo/NHSWM2DCurved/blob/master/README.md) for documentation and relevant citations.
+    - See relevant [thesis chapter, from Derek Steinmoeller's thesis](https://raw.githubusercontent.com/dsteinmo/NHSWM2DCurved/refs/heads/master/docs/Steinmoeller_Derek_ch_4.pdf).
 
 * [Env-Stability(?)](https://github.com/??/??) - Marek Stastna's MATLAB codes for doing linear stability calculations for environmental fluid mechanics problems.
