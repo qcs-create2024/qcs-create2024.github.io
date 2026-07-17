@@ -2,7 +2,7 @@
 layout: post
 title: The 2026 CGU/IAH-CNC Experience
 subtitle: NSERC CREATE QCS Travel Award Report
-tags: [QCS Conference Tavel Award]
+tags: [QCS Conference Travel Award]
 comments: true
 author: Tyler Herrington, PhD Candidate
 ---
