@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The 2026 FDSE Summer School at École Polytechnique
+title: The 2026 FDSE Summer school at École Polytechnique
 subtitle: NSERC CREATE QCS Travel Award Report
-tags: [QCS Conference Tavel Award]
+tags: [QCS Conference Travel Award]
 comments: true
 author: Meixin Zhou
 ---
