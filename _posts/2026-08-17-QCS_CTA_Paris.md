@@ -21,7 +21,7 @@ participating professors. I had the opportunity to give a poster presentation on
 geostrophic drag law to better represent the ocean current feedback in ocean-only simulations"_. The work proposed a 
 theoretically based wind stress formulation to better represent the damping effect of surface currents on ocean eddies. 
 The session sparked meaningful discussions, making it my first opportunity to share this project with people outside 
-McGill --- and the conversations were incredibly fruitful. The diverse research backgrounds of the participants brought many 
+McGill—and the conversations were incredibly fruitful. The diverse research backgrounds of the participants brought many 
 new perspectives. I met people studying similar eddy damping processes and others applying adapted versions of quadratic drag 
 laws to sea ice, while also learning from people working on atmospheric dynamics, smaller lake systems, and climate models. 
 Even more fascinating were the conversations with those analyzing their own in-situ measurements collected during research 
