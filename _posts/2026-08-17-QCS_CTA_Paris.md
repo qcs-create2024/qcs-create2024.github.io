@@ -62,5 +62,5 @@ The two weeks were an incredibly rewarding and intellectually stimulating journe
 I formed with people from diverse backgrounds will undoubtedly continue to inspire me in the future. 
 
 
-![Meixin Zhou at École Polytechnique.](https://qcs-create2024.github.io/assets/img/FDSE_meixin.jpg)
+![Meixin Zhou at École Polytechnique.](https://qcs-create2024.github.io/assets/img/FDSE_meixin.jpg){: .mx-auto.d-block :}
 
