@@ -2,7 +2,7 @@
 layout: post
 title: Underwater Glider User Group Workshop 2026 
 subtitle: NSERC CREATE QCS Travel Award Report
-tags: [QCS Conference Tavel Award]
+tags: [QCS Conference Travel Award]
 comments: true
 author: Hana Hourston
 ---
