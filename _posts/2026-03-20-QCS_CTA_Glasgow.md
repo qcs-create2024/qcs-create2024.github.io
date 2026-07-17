@@ -2,7 +2,7 @@
 layout: post
 title: Ocean Sciences Meeting 2026 
 subtitle: NSERC CREATE QCS Travel Award Report
-tags: [QCS Conference Tavel Award]
+tags: [QCS Conference Travel Award]
 comments: true
 author: Jacob MacDonald
 ---
