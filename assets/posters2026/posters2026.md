@@ -43,6 +43,8 @@ uploaded and linked here when it's ready.
 ### [A surface mechanism for midlatitude extreme wind intensification](/assets/posters2026/CREATE-QCS-2026-Prates-poster.pdf)
 **Lucas Prates**, Prof. Paul Kushner, Michael Morris
 
+Winner of both the "Best Poster Award" by a panel of returning QCS PhD student judges (and the program coordinator), and the "Poster Award (People's Choice)" by a majority vote of registered Summer School attendees present on July 24th.
+
 ### [Examining the Effects of Borehole Water Extraction on a Synthetic Glacier Model](/assets/posters2026/CREATE-QCS-2026-Rado-poster.pdf)
 **Janos Rado**, Prof. Christine Dow
 
