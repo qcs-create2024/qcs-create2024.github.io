@@ -1,6 +1,6 @@
 ---
 title: QCS Summer School 2026 Student Posters
-subtitle: Presented July 26, 2026
+subtitle: Presented July 24, 2026
 ---
 
 On this page you will find an archive of the posters presented by our students at the poster 
