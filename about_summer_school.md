@@ -11,8 +11,11 @@ presentations, workshops, and plenty of networking and relationship-building opp
 summer school will also facilitate participation in other program components. PhD-level trainees
 must attend **two** summer schools, and MSc-level trainees must attend **one** summer school.
 
-### SAVE THE DATE!
-Mark your calendar for the 2026 Summer School, scheduled from July 20-24, 2026, at the University of Waterloo!
+### Success! QCS Summer School 2026
+The second annual QCS Summer School took place at the University of Waterloo July 20-24, 2026. We welcomed a larger group of students than we had last year for an exciting week of networking, technical talks, and workshops. Our students took on an ambitious hands-on training exercise in which student groups pitched mock research proposals to address an existing gap in climate research. The week concluded with a fantastic student poster session and cash prize announcements!
+
+### Student poster session
+Our dedicated QCS students prepared posters on their exciting QCS research and presented them at a poster session on July 24th. Check out the poster archive (coming soon!), and stay tuned for the complete collection of abstracts (.pdf) from the 2026 Summer School.
 
 The group project info and related materials can be accessed [here](https://github.com/qcs-create2024/qcs-create2024.github.io/tree/master/assets/project2026).
 
