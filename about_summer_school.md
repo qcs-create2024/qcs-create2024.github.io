@@ -17,6 +17,7 @@ The second annual QCS Summer School took place at the University of Waterloo Jul
 ### Student poster session
 Our dedicated QCS students prepared posters on their exciting QCS research and presented them at a poster session on July 24th. Check out the poster archive (coming soon!), and stay tuned for the complete collection of abstracts (.pdf) from the 2026 Summer School.
 
+### Summer School materials and schedule
 The group project info and related materials can be accessed [here](https://github.com/qcs-create2024/qcs-create2024.github.io/tree/master/assets/project2026).
 
 The summer school schedule is now live, check it out here:
