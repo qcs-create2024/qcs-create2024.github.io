@@ -20,6 +20,9 @@ Our dedicated QCS students prepared posters on their exciting QCS research and p
 ### Summer School materials and schedule
 The group project info and related materials can be accessed [here](https://github.com/qcs-create2024/qcs-create2024.github.io/tree/master/assets/project2026).
 
+Slides for the computer skills workshop, "AI Tools for Computing and Research", hosted by 
+Dr. Derek Steinmoeller can be found [here](https://dsteinmoeller.math.uwaterloo.ca/slides/create-talk-2026-ai.html#1).
+
 The summer school schedule is now live, check it out here:
 ![The schedule is now live, check it out here!](/assets/img/summer_school_schedule2026.png)
 
