@@ -51,3 +51,16 @@ advanced calculus and ordinary differential equations.
 Module covering observations from three different types of sensors/parts of the electromagnetic spectrum 
 (passive microwave, synthetic aperture radar, and long wave infrared), with corresponding activities on ice
 concentration and sea surface temperature.
+
+### [Primer on modeling (1)](https://github.com/katjafennel/CREATE_QCS_Primer_1) (Katja Fennel)
+This primer is the first in a two-part series and introduces basic concepts relevant to quantitaive modeling. 
+It is organized in 3 units that logically build on one another. Example codes are in Matlab.
+
+### [Primer on modeling (2)](https://github.com/katjafennel/CREATE_QCS_Primer_2) (Katja Fennel)
+This primer is the second in a two-part series and introduces basic concepts relevant to quantitaive modeling. 
+It is organized in 3 units that logically build on the first primer and on one another. Example codes are in Matlab.
+
+
+
+
+
