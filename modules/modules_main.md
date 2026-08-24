@@ -46,3 +46,8 @@ fluid dynamics are encouraged to first read Marek Stastna's module _The Mathemat
 ### [Internal Gravity Waves and Mountain Waves](https://github.com/dkirshbaum/CREATE_igmtn) (Daniel Kirshbaum)
 QCS CREATE module on internal gravity waves and mountain waves pitched at a mathematical level not exceeding 
 advanced calculus and ordinary differential equations.
+
+### [Remote sensing module](https://github.com/ka3scott/Remote_Sensing_Module) (Andrea Scott)
+Module covering observations from three different types of sensors/parts of the electromagnetic spectrum 
+(passive microwave, synthetic aperture radar, and long wave infrared), with corresponding activities on ice
+concentration and sea surface temperature.
