@@ -38,3 +38,5 @@ Conference travel funding for conferences scheduled through August 2027 is avail
 Each Award is valued at $1000 (minimum). 
 The conference travel funding procedure and application document can be found here: 
 [conference travel award information and application form (.pdf)](https://qcs-create2024.github.io/assets/CREATE-QCS-travel-award-info+application-form.pdf).
+
+You can read about the fantastic experiences of our Conference Travel Award recipients in a fun travel blog format on the [QCS homepage](https://qcs-create2024.github.io/)!
