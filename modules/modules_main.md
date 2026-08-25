@@ -17,7 +17,7 @@ improve training modules for future cohorts, drawing on their research and inter
 experiences to inform the improvements.
 
 Once you have completed this requirement, download and complete the [confirmation form (.pdf)](https://qcs-create2024.github.io/modules/CREATE-QCS-module-completion-form.pdf) 
-and email it to the Program Coordinator for our records.
+and email it to the Program Coordinator for our records. Letters confirming module completion are available upon request (please contact the Program Coordinator).
 
 ### [Higher order methods](https://github.com/mmstastn/Higher_Order_Methods) (Marek Stastna)
 QCS CREATE module on basic FFT based spectral methods and physics background for waves/shocks.
