@@ -1,0 +1,34 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                                                         %%%
+%%% LaTeX script to combine various .pdf files (or pages thereof) into a    %%%
+%%% single .pdf document.                                                   %%%
+%%%                                                                         %%%
+%%% USAGE: some of the CREATE documents/application forms/completion forms  %%%
+%%% ask you to submit a single .pdf file -- please use this script to       %%%
+%%% combine the various components into one file.                           %%%
+%%%                                                                         %%%
+%%% Developed by Dr. Alain Gervais (University of Waterloo) for "Training   %%%
+%%% for novel directions in quantitative climate science" (QCS) CREATE      %%%
+%%% grant funded by NSERC.                                                  %%%
+%%%                                                                         %%%
+%%% ----------------------------------------------------------------------- %%%
+%%% How to use the "pages=" option:                                         %%%
+%%%    o  set pages=- to include all pages in {*.pdf}                       %%%
+%%%    o  set pages=n to include page number "n" from {*.pdf}               %%%
+%%%    o  set pages=n-m to includes pages numbered "n" to "m" in {*.pdf}    %%%
+%%%    o  to include pages from other .pdf files, add another \includepdf   %%%
+%%%       command on a new line                                             %%%
+%%%                                                                         %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass[letterpaper,11pt]{article}
+\usepackage{pdfpages}
+
+\begin{document}
+
+\includepdf[pages=-]{filename1.pdf} % set pages=... as needed, and replace
+                                    % "filename1.pdf" with your document's 
+                                    % actual filename
+
+\end{document}
