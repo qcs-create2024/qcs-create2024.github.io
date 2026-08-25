@@ -45,4 +45,5 @@ Exciting! We've just refreshed the visual branding on our documentation---we hop
 * [Participation agreement/requirements form](https://qcs-create2024.github.io/assets/CREATE-QCS-agreement-form.pdf)
 * [Microcredential completion confirmation form](https://qcs-create2024.github.io/microcredentials/CREATE-QCS-microcredential-completion-form.pdf)
 * [Module completion confirmation form](https://qcs-create2024.github.io/modules/CREATE-QCS-module-completion-form.pdf)
-* [QCS Conference Travel Award information and application form](https://qcs-create2024.github.io/assets/CREATE-QCS-travel-award-info+application-form.pdf)
+* [QCS Conference Travel Award (CTA) information and application form](https://qcs-create2024.github.io/assets/CREATE-QCS-travel-award-info+application-form.pdf)
+* Some forms (such as the CTA application form) ask you to attach other files and submit the whole package as a single PDF file. Please use [this LaTeX script](https://qcs-create2024.github.io/assets/combined_docs.tex) to combine PDF files as needed. (Make sure to rename the resulting file.)
