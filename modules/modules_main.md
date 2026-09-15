@@ -64,5 +64,8 @@ It is organized in 3 units that logically build on the first primer and on one a
 This module introduces applied stochastic processes for modelling phenomena with a random component.  
 It can be applied across a broad cross-section of QCS disciplines.
 
+### [Scientific Machine Learning](https://github.com/mmstastn/Scientific_Machine_Learning_Module) (Mohammad Kohandel, University of Waterloo (guest contributor))
+This module introduces scientific machine learning.  It is a broad introduction, allowing students to 
+pick areas of personal interest. It can be applied across a broad cross-section of QCS disciplines.
 
 
