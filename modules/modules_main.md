@@ -60,7 +60,9 @@ It is organized in 3 units that logically build on one another. Example codes ar
 This primer is the second in a two-part series and introduces basic concepts relevant to quantitaive modeling. 
 It is organized in 3 units that logically build on the first primer and on one another. Example codes are in Matlab.
 
-
+### [Applied Stochastic Processes](https://github.com/mmstastn/MiniStochasticsModule) (Mathew Scott, University of Waterloo (guest contributor))
+This module introduces applied stochastic processes for modelling phenomena with a random component.  
+It can be applied across a broad cross-section of QCS disciplines.
 
 
 
