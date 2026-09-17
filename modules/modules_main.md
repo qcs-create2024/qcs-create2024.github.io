@@ -52,6 +52,10 @@ Module covering observations from three different types of sensors/parts of the 
 (passive microwave, synthetic aperture radar, and long wave infrared), with corresponding activities on ice
 concentration and sea surface temperature.
 
+### [Data assimilation in nonlinear fluid flow](https://github.com/ka3scott/Data_Assimilation_module) (Andrea Scott)
+Module with four presentations covering the Kalman filter, ensemble Kalman filter, nudging, and neural surrogate dynamics,
+applied to the study of nonlinear fluid dynamics.
+
 ### [Primer on modeling (1)](https://github.com/katjafennel/CREATE_QCS_Primer_1) (Katja Fennel)
 This primer is the first in a two-part series and introduces basic concepts relevant to quantitaive modeling. 
 It is organized in 3 units that logically build on one another. Example codes are in Matlab.
