@@ -6,14 +6,17 @@ subtitle: Broaden your QCS experience
 ### Academic exchanges/visits
 The CREATE program provides funding to travel to partner
 institutions to participate in collaborative research, gaining teamwork and communication skills,
-along with alternative research perspectives. Exchanges are **mandatory** for PhD-level trainees, and
-**strongly recommended** for masters-level trainees. 
+along with alternative research perspectives. Exchanges/visits are **mandatory** for PhD-level trainees, and
+**strongly recommended** for masters-level trainees (pending availability of funds). 
 
 The annual summer school is a great place
 to discuss exchange opportunities with supervisors from the participating universities. Exchanges
 can consist of one or more experiences, but must have a combined duration of **two weeks** (10 working days). Individual
 exchange experiences should be discussed on a case-by-case basis with your supervisor and potential
 exchange supervisor. 
+
+Please refer to the [exchange/visit planning document](https://qcs-create2024.github.io/assets/CREATE-QCS-exchange-planning-form.pdf). 
+Please also keep the Program Coordinator informed throughout your exchange planning process.
 
 Participating undergraduate students will be encouraged to explore graduate
 opportunities at participating institutions.
