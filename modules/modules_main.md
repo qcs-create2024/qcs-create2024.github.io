@@ -72,4 +72,14 @@ It can be applied across a broad cross-section of QCS disciplines.
 This module introduces scientific machine learning.  It is a broad introduction, allowing students to 
 pick areas of personal interest. It can be applied across a broad cross-section of QCS disciplines.
 
+### [Propagation and dispersion of waves in geophysical contexts](https://github.com/qcs-create2024/qcs-create2024.github.io/tree/master/modules/straub_waves_module) (David Straub)
+Module introducing wave kinematics and the shallow water equations, with exercises contained in Jupyter notebooks.
+Some familiarity with trigonometric and exponential functions is assumed, building up to the basic Fourier analysis
+used numerically. 
+
+
+
+
+
+
 
