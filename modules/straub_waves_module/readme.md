@@ -1,4 +1,4 @@
-#Propagation and dispersion of waves in geophysical contexts
+# Propagation and dispersion of waves in geophysical contexts
 
 CREATE QCS module by Prof. David Straub (McGill University) with contributions from CREATE graduate students Akash Dutta and Meixin Zhou.
 
