@@ -23,7 +23,7 @@ The group project info and related materials can be accessed [here](https://gith
 Slides for the computer skills workshop, "AI Tools for Computing and Research", hosted by 
 Dr. Derek Steinmoeller can be found [here](https://dsteinmoeller.math.uwaterloo.ca/slides/create-talk-2026-ai.html#1).
 
-The summer school schedule is now live, check it out here:
+The summer school schedule is now live, check it out here (participants will receive a detailed version):
 ![The schedule is now live, check it out here!](/assets/img/summer_school_schedule2026.png)
 
 ### Looking for the 2025 Summer School web page?
