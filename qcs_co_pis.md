@@ -8,7 +8,7 @@ To apply to participate in the CREATE program, first ensure one of the superviso
 
 ### Dalhousie University
 * Prof. Katja Fennel - [The quantifiable ocean](https://memg.ocean.dal.ca/fennel/)
-* Prof. Ruth Musgrave - [The quantifiable ocean](https://mixing.phys.ocean.dal.ca/)
+* Prof. Ruth Musgrave - [The quantifiable ocean](https://www.dal.ca/faculty/science/oceanography/people/faculty/RuthMusgrave.html)
 
 ### McGill University
 * Prof. Daniel Kirshbaum - [Data-centric computing in QCS](https://web.meteo.mcgill.ca/~dkirshbaum/)
@@ -19,9 +19,9 @@ To apply to participate in the CREATE program, first ensure one of the superviso
 * Prof. Paul Kushner - [Artificial intelligence in QCS](http://www.pjk.atmosp.physics.utoronto.ca/)
 
 ### University of Waterloo
-* Prof. Christine Dow - [Data-centric computing in QCS](https://uwaterloo.ca/scholar/c3dow/home)
-* Prof. Chris Fletcher - [Artificial intelligence in QCS](https://uwaterloo.ca/scholar/c5fletch/)
+* Prof. Christine Dow - [Data-centric computing in QCS](https://uwaterloo.ca/geography-environmental-management/profile/c3dow)
+* Prof. Chris Fletcher - [Artificial intelligence in QCS](https://uwaterloo.ca/geography-environmental-management/profile/c5fletch)
 * Prof. Francis Poulin - [The quantifiable ocean](https://francispoulin.github.io)
-* Prof. Andrea Scott - [Artificial intelligence in QCS](https://uwaterloo.ca/scholar/ka3scott)
-* Prof. Marek Stastna (lead PI) - [Data-centric computing in QCS](https://uwaterloo.ca/scholar/mmstastn)
+* Prof. Andrea Scott - [Artificial intelligence in QCS](https://uwaterloo.ca/systems-design-engineering/profile/ka3scott)
+* Prof. Marek Stastna (lead PI) - [Data-centric computing in QCS](https://uwaterloo.ca/applied-mathematics/profiles/marek-stastna)
 * Dr. Alain Gervais (CREATE program coordinator)
