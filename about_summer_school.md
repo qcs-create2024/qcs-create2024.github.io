@@ -12,7 +12,7 @@ summer school will also facilitate participation in other program components. Ph
 must attend **two** summer schools, and MSc-level trainees must attend **one** summer school.
 
 ### SAVE THE DATE! MARK YOUR CALENDAR!
-The 2027 QCS Summer School will occur at the University of Waterloo from **July 26-30, 2027**.
+The 2027 QCS Summer School will occur at the University of Waterloo from **July 19-23, 2027**.
 
 ### Looking for the 2026 Summer School web page?
 The web page for the 2026 Summer School has migrated [to this page](https://qcs-create2024.github.io/summer_school_2026_archive/).
