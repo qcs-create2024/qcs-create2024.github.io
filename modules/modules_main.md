@@ -57,11 +57,11 @@ Module with four presentations covering the Kalman filter, ensemble Kalman filte
 applied to the study of nonlinear fluid dynamics.
 
 ### [Primer on modeling (1)](https://github.com/katjafennel/CREATE_QCS_Primer_1) (Katja Fennel)
-This primer is the first in a two-part series and introduces basic concepts relevant to quantitaive modeling. 
+This primer is the first in a two-part series and introduces basic concepts relevant to quantitative modeling. 
 It is organized in 3 units that logically build on one another. Example codes are in Matlab.
 
 ### [Primer on modeling (2)](https://github.com/katjafennel/CREATE_QCS_Primer_2) (Katja Fennel)
-This primer is the second in a two-part series and introduces basic concepts relevant to quantitaive modeling. 
+This primer is the second in a two-part series and introduces basic concepts relevant to quantitative modeling. 
 It is organized in 3 units that logically build on the first primer and on one another. Example codes are in Matlab.
 
 ### [Applied Stochastic Processes](https://github.com/mmstastn/MiniStochasticsModule) (Mathew Scott, University of Waterloo (guest contributor))
@@ -77,8 +77,9 @@ Module introducing wave kinematics and the shallow water equations, with exercis
 Some familiarity with trigonometric and exponential functions is assumed, building up to the basic Fourier analysis
 used numerically. 
 
-
-
+### [Introduction to Earth System Models](https://github.com/Fletcher-Climate-Group/CREATE-Intro-ESM/tree/main) (Tyler Herrington (Phd student) and Matthew Mast (Masters student) under Chris Fletcher)
+This module was written as an intro to Earth System Models as a whole, how to use them, and how to interpret their data. The module 
+will include 6 labs that go along with the main chapters.
 
 
 
